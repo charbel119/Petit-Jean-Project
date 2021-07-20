@@ -1,0 +1,75 @@
+
+  -ISIS-  04041718272D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    0.0542   -1.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4167    0.9375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2750    0.4083    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8000    0.0208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0542   -1.3542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.1292    5.0917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1125   -6.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2667   -2.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.2042   -0.8417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0000   -0.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0667    4.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8250    6.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2792    3.7458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4917   -2.7625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.5750   -4.9792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  5  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  2  2  0  0  0  0
+  7  1  2  0  0  0  0
+  8  4  1  0  0  0  0
+  9  2  1  0  0  0  0
+ 10  8  2  0  0  0  0
+ 11  4  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 10  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+>  <ID> (a00023)
+a00023
+
+>  <IUPAC NAME> (a00023)
+methyl 2-(3-methylbenzoyl)hydrazinecarboxylate
+
+>  <INDEX NAME> (a00023)
+benzoic acid, 3-methyl-, 2-(methoxycarbonyl)hydrazide
+
+>  <Synonym> (a00023)
+methyl 2-(3-methylbenzoyl)-1-hydrazinecarboxylate
+
+>  <Pricing> (a00023)
+1mg/12USD, 5mg/15USD, 10mg/20USD, 20mg/30USD, 50mg/50USD, 100mg/80USD
+
+>  <Picture> (a00023)
+e07220
+
+>  <InChI> (a00023)
+InChI=1/C10H12N2O3/c1-7-4-3-5-8(6-7)9(13)11-12-10(14)15-2/h3-6H,1-2H3,(H,11,13)(H,12,14)/f/h11-12H
+
+>  <InChIKey> (a00023)
+InChIKey=JTEXLCSACVDWNR-WYCIUFAECI
+
+>  <CANONICAL_SMILES> (a00023)
+COC(=O)NNC(=O)c1cccc(C)c1
+
+>  <Pricing_and_Availability_Link> (a00023)
+http://www.aronis.ru/store/index.php?main_page=advanced_search_result&search_in_description=1&keyword=a00023
+
+>  <Pricing_and_Availability_Link2> (a00023)
+http://www.aronis.ru/store/index.php?main_page=product_info&cPath=1&products_id=1737
+
+>  <Purity> (a00023)
+=>90%
+
+>  <EXP_Property> (a00023)
+available
+
+$$$$
